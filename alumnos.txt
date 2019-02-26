@@ -1,0 +1,50 @@
+No: 1
+NC: 15400986
+Nombre: Juan Manuel Del Hoyo
+Calificación: 100
+-----------------------------
+No: 2
+NC: 15400987
+Nombre: Jesus Alejandro Reynoso
+Calificación: 80
+-----------------------------
+No: 3
+NC: 15400988
+Nombre: Eric Roman Garcia
+Calificación: 70
+-----------------------------
+No: 4
+NC: 15400989
+Nombre: Edgar Efren Pozas
+Calificación: 79
+-----------------------------
+No: 5
+NC: 15400990
+Nombre: Luis Alejandro Peña
+Calificación: 99
+-----------------------------
+No: 6
+NC: 15401029
+Nombre: Edwin Everardo Ponce
+Calificación: 88
+-----------------------------
+No: 7
+NC: 15402134
+Nombre: Roberto Antonio Aguilar
+Calificación: 95
+-----------------------------
+No: 8
+NC: 15400923
+Nombre: Arlette Anahis Conchas
+Calificación: 100
+-----------------------------
+No: 9
+NC: 15400884
+Nombre: Karen Lizeth Covarrubias
+Calificación: 90
+-----------------------------
+No: 10
+NC: 15401234
+Nombre: Sergio Alfaro
+Calificación: 85
+-----------------------------
